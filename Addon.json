@@ -1,0 +1,14 @@
+{
+	"Name": "TerrorTown",
+	"Tags": [
+		"Gamemode"
+	],
+	"Code": {
+		"Enabled": true,
+		"Requires": {
+			"Engine": "*",
+			"MenuSystem": "*",
+			"SourceImport": "*"
+		}
+	}
+}
